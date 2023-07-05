@@ -1,4 +1,7 @@
-<form action="inc/actions.php" method="post">
+
+<!-- Formulário da página de gerenciamento -->
+
+<form action="./inc/controle-dashboard.php" method="post">
     <div class="container mt-3 mb-5 text-center">
         <div class="row align-items-center">
             <div class="col-3"><h5>Ações Gerais</h5></div>

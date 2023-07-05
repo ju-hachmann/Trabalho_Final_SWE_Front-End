@@ -1,5 +1,8 @@
+
+<!-- Formulário de adição de novos livros -->
+
 <div class="container w-25 mt-3 ms-5">
-    <form action="adicionar" method="post">
+    <form action="./inc/controle-adicionar.php" method="post">
         <fieldset>
             <legend>Adicionar Novo Livro</legend>
 
